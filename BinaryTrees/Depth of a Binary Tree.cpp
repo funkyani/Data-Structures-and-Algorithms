@@ -13,7 +13,7 @@ and the following tree is not,
                          / \
                        n     n
                       /
-                     l
+
 The leaves of a nice binary tree are labeled by the letter ‘l’, and other nodes are labeled by the letter ‘n’.
 Given the pre-order traversal of a nice binary tree as a string, you are required to find the depth of the tree.
 Output one line for each test case, containing a single integer, the depth of tree.
