@@ -7,7 +7,7 @@ String S
 
 Output Format :
 
-Updated string
+Updated string:
 
 Constraints :
 1 <= Length of S <= 10000
