@@ -19,4 +19,4 @@ int main() {
 	cout << *(pc + 3) << endl;
 	return 0;
 }
-
+return 0;
