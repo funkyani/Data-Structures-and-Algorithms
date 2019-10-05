@@ -17,5 +17,6 @@ int main() {
 	cout << *(pc + 1) << endl;
 	cout << *(pc + 2) << endl;
 	cout << *(pc + 3) << endl;
+	return 0;
 }
 
