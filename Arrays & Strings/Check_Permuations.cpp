@@ -28,8 +28,8 @@ false
 
 */
 
-// input1 - first input string
-// input2 - second input string
+// input1 - input first string
+// input2 - input second string
 #include <bits/stdc++.h>
 using namespace std;
 
