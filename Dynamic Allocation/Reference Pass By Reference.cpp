@@ -39,5 +39,6 @@ int main() {
 	int k = 100;
 	j = k;
 	cout << i << endl;
+	return 0;
 }
 
