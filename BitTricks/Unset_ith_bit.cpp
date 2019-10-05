@@ -19,7 +19,7 @@ Sample Output 1 :
 
 Sample Input 2 :
 
-12 1
+12 1 2
 
 Sample Output 2 :
 
