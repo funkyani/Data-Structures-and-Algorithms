@@ -21,11 +21,11 @@ Sample Output 1 Explanation :
 We need to clear all bits from MSB to ith bit i.e. clear all bits except 0th and 1st.
 Sample Input 2 :
 
-4 4
+4 4 4
 
 Sample Output 2 :
 
-4
+44
 
  */
 
